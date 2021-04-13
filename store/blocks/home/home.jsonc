@@ -3,6 +3,7 @@
     "blocks": [
       "flex-layout.row#slider",
       "countdown",
+      "countdown.title",
       "shelf#new-arrivals",
       "shelf#clearance",
       "__fold__",
