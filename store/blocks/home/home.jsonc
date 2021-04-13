@@ -2,6 +2,7 @@
   "store.home": {
     "blocks": [
       "flex-layout.row#slider",
+      "countdown",
       "shelf#new-arrivals",
       "shelf#clearance",
       "__fold__",
